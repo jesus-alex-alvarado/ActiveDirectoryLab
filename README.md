@@ -14,31 +14,12 @@ In this project, we will deploy two virtual machines: a Windows Server 2019 inst
 - <b>Windows Server 2019</b>
 - <b>Windows 10</b>
 
-<h2>Program walk-through preview:</h2>
+<h2>Diagram:</h2>
 
 <p align="center">
-Select the disk:  <br/>
-<img src="https://imgur.com/8kfZ8QC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+HomeLab Configuration <br/>
+<img src="https://imgur.com/BMh6bvI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
