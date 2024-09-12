@@ -1,22 +1,20 @@
 <h1>Active Directory Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+In this project, we will deploy two virtual machines: a Windows Server 2019 instance and a Windows 10 client. The process includes creating a new domain, configuring Active Directory Domain Services (AD DS), Remote Access Service (RAS) with Network Address Translation (NAT), and Dynamic Host Configuration Protocol (DHCP) from the ground up. Upon completion, the configuration will be tested using the Windows 10 client. For detailed step-by-step instructions and accompanying visuals, please download the provided PDF guide.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows Server 2019</b>
+- <b>Windows 10</b>
 
-<h2>Program walk-through:</h2>
+<h2>Program walk-through preview:</h2>
 
 <p align="center">
 Select the disk:  <br/>
