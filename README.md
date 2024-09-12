@@ -9,7 +9,7 @@ In this project, we will deploy two virtual machines: a Windows Server 2019 inst
 <h2>Languages and Utilities Used</h2>
 
 <b>PowerShell</b> 
-- [PowerShell Script](https://github.com/jesus-alex-alvarado/ActiveDirectoryLab/blob/main/Home%20Lab%20Active%20Directory%20Setup%20using%20VirtualBox.pdf)
+- [PowerShell Script](https://github.com/jesus-alex-alvarado/ActiveDirectoryLab/blob/main/AD_PS-master.7z)
 
 <h2>Environments Used </h2>
 
